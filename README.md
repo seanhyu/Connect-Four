@@ -1,2 +1,1 @@
-# Quiz-Game
- simple Python game
+Simple Connect Four game using Python
